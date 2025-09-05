@@ -1,5 +1,4 @@
-# CodeAlpha_Tasks3
-# CodeAlpha_Tasks - Task 3
+# Python Task Automation
 
 ## 📝 Task 3 - Python Task Automation
 
